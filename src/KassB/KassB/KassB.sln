@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KassB.Core", "KassB.Core\KassB.Core.csproj", "{191B3158-C332-4518-B018-A2B63E2B6488}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KassB.Main", "KassB.Main\KassB.Main.csproj", "{7A4251C5-538A-4416-AC32-0B90AEBE0649}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{191B3158-C332-4518-B018-A2B63E2B6488}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{191B3158-C332-4518-B018-A2B63E2B6488}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{191B3158-C332-4518-B018-A2B63E2B6488}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{191B3158-C332-4518-B018-A2B63E2B6488}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A4251C5-538A-4416-AC32-0B90AEBE0649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A4251C5-538A-4416-AC32-0B90AEBE0649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A4251C5-538A-4416-AC32-0B90AEBE0649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A4251C5-538A-4416-AC32-0B90AEBE0649}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F158C629-B4DB-404E-B747-2A620D924A35}
+	EndGlobalSection
+EndGlobal
